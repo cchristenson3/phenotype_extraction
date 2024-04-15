@@ -3,7 +3,7 @@
 This R notebook is written to extract phenotype information from drone imagery using [FieldImageR](https://github.com/OpenDroneMap/FIELDimageR). This repo contains the following:
 
 - Orthomosaics: `dwonsampled_orthos\`
-- DSMs: `DSM\`
+- DSMs: `DSM\` Files are too large for github
 - Fieldmap: `fieldmaps\F120_beans_2023_fieldmap.csv`
 - R notebooks: `create_fieldmap.Rmd, create_shapefile.Rmd, extract_canopy_cover.Rmd, extract_plant_height.Rmd`
 
