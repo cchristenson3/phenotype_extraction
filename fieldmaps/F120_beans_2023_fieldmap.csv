@@ -1,0 +1,495 @@
+year,border,range,column,treatment,plot,type,TDP#,genotype,TDP#.1,Type,Accession
+2023,1,1,1,WL,101,border,,,,,
+2023,1,1,2,WL,102,border,,,,,
+2023,1,1,3,WL,103,border,,,,,
+2023,1,1,4,WL,104,border,,,,,
+2023,1,1,5,WL,105,border,,,,,
+2023,1,1,6,WL,106,border,,,,,
+2023,1,1,7,WL,107,border,,,,,
+2023,1,1,8,WL,108,border,,,,,
+2023,1,1,9,WL,109,border,,,,,
+2023,1,1,10,WL,110,border,,,,,
+2023,1,1,11,WL,111,border,,,,,
+2023,1,1,12,WL,112,border,,,,,
+2023,1,2,1,WL,201,border,,,,,
+2023,1,2,2,WL,202,Experimental,TDP-15,G40023,TDP-15,white,G40023
+2023,1,2,3,WL,203,Experimental,TDP-129,G40160,TDP-129,white,G40160
+2023,1,2,4,WL,204,Experimental,TDP-142,G40173B,TDP-142,cream,G40173B
+2023,1,2,5,WL,205,Experimental,TDP-106,G40140,TDP-106,white,G40140
+2023,1,2,6,WL,206,Experimental,TARS_Tep_96,TARS_Tep_96,20IS-11149,black speckled,
+2023,1,2,7,WL,207,Experimental,TDP-308,W6_32483,TDP-308,white,W6 32483 
+2023,1,2,8,WL,208,check plot,,,,,
+2023,1,2,9,WL,209,Experimental,TDP-273,G40299,TDP-273,white,G40299
+2023,1,2,10,WL,210,Experimental,TDP-145,G40175,TDP-145,yellow,G40175
+2023,1,2,11,WL,211,Experimental,TDP-289,PI458874,TDP-289,white,PI 458874 
+2023,1,2,12,WL,212,border,,,,,
+2023,1,3,1,WL,301,border,,,,,
+2023,1,3,2,WL,302,Experimental,TARS_Tep-109,TARS_Tep-109,20IS-11172,cream,
+2023,1,3,3,WL,303,check plot,,,,,
+2023,1,3,4,WL,304,Experimental,TDP-278,G40304,TDP-278,white,G40304
+2023,1,3,5,WL,305,Experimental,TDP-1,G40001,TDP-1,white,G40001
+2023,1,3,6,WL,306,Experimental,TDP-125,G40156,TDP-125,white,G40156
+2023,1,3,7,WL,307,Experimental,TDP-307,W6_32481,TDP-307,cream,W6 32481 
+2023,1,3,8,WL,308,Experimental,TDP-210,G40230,TDP-210,"cream,other",G40230
+2023,1,3,9,WL,309,Experimental,TDP-140,G40173,TDP-140,white,G40173
+2023,1,3,10,WL,310,Experimental,TDP-104,G40130,TDP-104,white,G40130
+2023,1,3,11,WL,311,Experimental,TARS_Tep_97,TARS_Tep_97,20IS-11156,"black speckled,nice",
+2023,1,3,12,WL,312,border,,,,,
+2023,1,4,1,WL,401,border,,,,,
+2023,1,4,2,WL,402,Experimental,TDP-301,PI549447,TDP-301,white,PI 549447 
+2023,1,4,3,WL,403,Experimental,TDP-18,G40029,TDP-18,"cream,brown",G40029
+2023,1,4,4,WL,404,Experimental,TDP-45,G40057,TDP-45,white,G40057
+2023,1,4,5,WL,405,Experimental,TDP-115,G40145,TDP-115,white,G40145
+2023,1,4,6,WL,406,Experimental,TDP-119,G40149,TDP-119,white,G40149
+2023,1,4,7,WL,407,Experimental,TDP-99,G40122,TDP-99,white,G40122
+2023,1,4,8,WL,408,Experimental,TDP-112,G40144A,TDP-112,cream,G40144A
+2023,1,4,9,WL,409,check plot,,,,,
+2023,1,4,10,WL,410,Experimental,TDP-127,G40158A,TDP-127,cream,G40158A
+2023,1,4,11,WL,411,Experimental,TDP-258,G40282,TDP-258,yellow,G40282
+2023,1,4,12,WL,412,border,,,,,
+2023,1,5,1,WL,501,border,,,,,
+2023,1,5,2,WL,502,Experimental,TDP-290,PI462026,TDP-290,white,PI 462026 
+2023,1,5,3,WL,503,Experimental,TDP-275,G40301,TDP-275,white,G40301
+2023,1,5,4,WL,504,Experimental,TDP-280,PI440792,TDP-280,white,PI 440792 
+2023,1,5,5,WL,505,Experimental,Sacaton_white,Sacaton_white,20IS-11146,white,
+2023,1,5,6,WL,506,Experimental,TDP-219,G40237A,TDP-219,pink,G40237A
+2023,1,5,7,WL,507,Experimental,TDP-111,G40144,TDP-111,white,G40144
+2023,1,5,8,WL,508,Experimental,TDP-299,PI535227,TDP-299,cream,PI 535227 
+2023,1,5,9,WL,509,Experimental,TDP-5,G40010,TDP-5,white,G40010
+2023,1,5,10,WL,510,Experimental,TDP-97,G40119,TDP-97,black,G40119
+2023,1,5,11,WL,511,check plot,,,,,
+2023,1,5,12,WL,512,border,,,,,
+2023,1,6,1,WL,601,border,,,,,
+2023,1,6,2,WL,602,Experimental,TDP-312,TARS_Tep_23,TDP-312,black,TARS-Tep 23
+2023,1,6,3,WL,603,Experimental,TDP-218,G40237,TDP-218,cream,G40237
+2023,1,6,4,WL,604,check plot,,,,,
+2023,1,6,5,WL,605,Experimental,TDP-4,G40009,TDP-4,white,G40009
+2023,1,6,6,WL,606,Experimental,TDP-122,G40152,TDP-122,white,G40152
+2023,1,6,7,WL,607,Experimental,TDP-284,PI440801,TDP-284,yellow,PI 440801 
+2023,1,6,8,WL,608,Experimental,TDP-255,G40276,TDP-255,white,G40276
+2023,1,6,9,WL,609,Experimental,TDP-132,G40163,TDP-132,white,G40163
+2023,1,6,10,WL,610,Experimental,TDP-288,PI458873,TDP-288,white,PI 458873 
+2023,1,6,11,WL,611,Experimental,TDP-105,G40138,TDP-105,white,G40138
+2023,1,6,12,WL,612,border,,,,,
+2023,1,7,1,WL,701,border,,,,,
+2023,1,7,2,WL,702,Experimental,TDP-8,G40013D,TDP-8,"brown, cream",G40013D
+2023,1,7,3,WL,703,Experimental,TARS_Tep-119,TARS_Tep-119,,white specked,
+2023,1,7,4,WL,704,Experimental,TDP-28,G40040,TDP-28,yellow,G40040
+2023,1,7,5,WL,705,Experimental,TDP-251,G40272,TDP-251,white,G40272
+2023,1,7,6,WL,706,Experimental,TDP-22,G40035,TDP-22,black,G40035
+2023,1,7,7,WL,707,check plot,,,,,
+2023,1,7,8,WL,708,Experimental,TDP-88,G40110,TDP-88,"black,cream",G40110
+2023,1,7,9,WL,709,Experimental,TDP-146,G40176,TDP-146,pink,G40176
+2023,1,7,10,WL,710,Experimental,TDP-17,G40028,TDP-17,white,G40028
+2023,1,7,11,WL,711,Experimental,TDP-108,G40142,TDP-108,cream,G40142
+2023,1,7,12,WL,712,border,,,,,
+2023,1,8,1,WL,801,border,,,,,
+2023,1,8,2,WL,802,check plot,,,,,
+2023,1,8,3,WL,803,Experimental,TDP-274,G40300,TDP-274,white,G40300
+2023,1,8,4,WL,804,Experimental,TDP-150,G40177B1,TDP-150,white,G40177B1
+2023,1,8,5,WL,805,Experimental,TDP-220,G40238,TDP-220,cream,G40238
+2023,1,8,6,WL,806,Experimental,TDP-300,PI535233,TDP-300,white,PI 535233 
+2023,1,8,7,WL,807,Experimental,TDP-314,TB_1,TDP-314,yellow,TB 1
+2023,1,8,8,WL,808,Experimental,TDP-103,G40129,TDP-103,white,G40129
+2023,1,8,9,WL,809,Experimental,TDP-110,G40143,TDP-110,white,G40143
+2023,1,8,10,WL,810,Experimental,TDP-256,G40277,TDP-256,white,G40277
+2023,1,8,11,WL,811,Experimental,TDP-209,G40229,TDP-209,white,G40229
+2023,1,8,12,WL,812,border,,,,,
+2023,1,9,1,WL,901,border,,,,,
+2023,1,9,2,WL,902,Experimental,TDP-25,G40037A,TDP-25,pink,G40037A
+2023,1,9,3,WL,903,Experimental,TDP-144,G40174,TDP-144,white,G40174
+2023,1,9,4,WL,904,Experimental,TDP-126,G40157,TDP-126,white,G40157
+2023,1,9,5,WL,905,Experimental,TDP-276,G40302,TDP-276,white,G40302
+2023,1,9,6,WL,906,check plot,,,,,
+2023,1,9,7,WL,907,Experimental,TARS_Tep_101,TARS_Tep_101,20IS-11159,"white, nice",
+2023,1,9,8,WL,908,Experimental,TDP-21,G40034,TDP-21,white,G40034
+2023,1,9,9,WL,909,Experimental,TDP-283,PI440800,TDP-283,white,PI 440800 
+2023,1,9,10,WL,910,Experimental,TDP-148,G40177A1,TDP-148,"cream,pink",G40177A1
+2023,1,9,11,WL,911,Ramona Fill,,,,,
+2023,1,9,12,WL,912,border,,,,,
+2023,1,10,1,WL,1001,border,,,,,
+2023,1,10,2,WL,1002,Experimental,TDP-306,W6_32480,TDP-306,black,W6 32480 
+2023,1,10,3,WL,1003,Experimental,TDP-287,PI440806,TDP-287,yellow,PI 440806 
+2023,1,10,4,WL,1004,Experimental,TDP-134,G40165,TDP-134,white,G40165
+2023,1,10,5,WL,1005,Experimental,TARS_Tep-118,TARS_Tep-118,20IS-11167,"black speckled,nice",
+2023,1,10,6,WL,1006,Experimental,TDP-293,PI477035,TDP-293,white,PI 477035 
+2023,1,10,7,WL,1007,check plot,,,,,
+2023,1,10,8,WL,1008,Experimental,TDP-89,G40111,TDP-89,"black,cream",G40111
+2023,1,10,9,WL,1009,Experimental,TDP-101,G40127,TDP-101,white,G40127
+2023,1,10,10,WL,1010,Experimental,TARS_Tep_54,TARS_Tep_54,20IS-11151,"white, nice",
+2023,1,10,11,WL,1011,Experimental,TARS_Tep-110,TARS_Tep-110,20IS-11173,white,
+2023,1,10,12,WL,1012,border,,,,,
+2023,1,11,1,WL,1101,border,,,,,
+2023,1,11,2,WL,1102,Ramona Fill,,,,,
+2023,1,11,3,WL,1103,Experimental,TDP-254,G40275,TDP-254,white,G40275
+2023,1,11,4,WL,1104,Experimental,TARS_Tep-112,TARS_Tep-112,20IS-11175,pinto,
+2023,1,11,5,WL,1105,Experimental,TDP-259,G40283,TDP-259,"cream,other",G40283
+2023,1,11,6,WL,1106,check plot,,,,,
+2023,1,11,7,WL,1107,Experimental,TDP-128,G40159,TDP-128,white,G40159
+2023,1,11,8,WL,1108,Experimental,TDP-244,Neb_T_6_S,TDP-244,black,Neb T-6-S
+2023,1,11,9,WL,1109,Experimental,TDP-120,G40150,TDP-120,white,G40150
+2023,1,11,10,WL,1110,Experimental,TDP-121,G40151,TDP-121,white,G40151
+2023,1,11,11,WL,1111,Experimental,TDP-107,G40141,TDP-107,white,G40141
+2023,1,11,12,WL,1112,border,,,,,
+2023,1,12,1,WL,1201,border,,,,,
+2023,1,12,2,WL,1202,Experimental,TDP-14,G40022A,TDP-14,dark pink,G40022A
+2023,1,12,3,WL,1203,check plot,,,,,
+2023,1,12,4,WL,1204,Experimental,TDP-279,PI440785,TDP-279,white,PI 440785 
+2023,1,12,5,WL,1205,Experimental,TARS_Tep_94,TARS_Tep_94,20IS-11154,"white, nice",
+2023,1,12,6,WL,1206,Experimental,TDP-2,G40006B,TDP-2,"black,cream",G40006B
+2023,1,12,7,WL,1207,Experimental,TDP-123,G40153,TDP-123,cream,G40153
+2023,1,12,8,WL,1208,Experimental,TDP-295,PI477038,TDP-295,white,PI 477038 
+2023,1,12,9,WL,1209,Experimental,TDP-133,G40164,TDP-133,white,G40164
+2023,1,12,10,WL,1210,Experimental,TARS_Tep_93,TARS_Tep_93,20IS-11152,white speckled,
+2023,1,12,11,WL,1211,Experimental,TDP-296,PI440795,TDP-296,white,PI 440795 
+2023,1,12,12,WL,1212,border,,,,,
+2023,1,13,1,WL,1301,border,,,,,
+2023,1,13,2,WL,1302,Experimental,TDP-248,G40269,TDP-248,"cream,brown",G40269
+2023,1,13,3,WL,1303,Experimental,TDP-20,G40032,TDP-20,white,G40032
+2023,1,13,4,WL,1304,check plot,,,,,
+2023,1,13,5,WL,1305,Experimental,TDP-31,G40043,TDP-31,white,G40043
+2023,1,13,6,WL,1306,Experimental,TDP-12,G40021,TDP-12,white,G40021
+2023,1,13,7,WL,1307,Experimental,TDP-303,PI653254,TDP-303,yellow,PI 653254 
+2023,1,13,8,WL,1308,Experimental,TDP-177,G40200,TDP-177,"cream,brown",G40200
+2023,1,13,9,WL,1309,Experimental,TARS_Tep_22,TARS_Tep_22,20IS-11155,white,
+2023,1,13,10,WL,1310,Experimental,TDP-9,G40018,TDP-9,"cream,brown",G40018
+2023,1,13,11,WL,1311,Experimental,TDP-109,G40142A,TDP-109,cream,G40142A
+2023,1,13,12,WL,1312,border,,,,,
+2023,1,14,1,WL,1401,border,,,,,
+2023,1,14,2,WL,1402,Experimental,TARS_Tep_103,TARS_Tep_103,20IS-11160,"white speckled, very nice",
+2023,1,14,3,WL,1403,Experimental,TDP-282,PI440798,TDP-282,white,PI 440798 
+2023,1,14,4,WL,1404,Experimental,TDP-46,G40058,TDP-46,white,G40058
+2023,1,14,5,WL,1405,Experimental,TDP-118,G40148,TDP-118,white,G40148
+2023,1,14,6,WL,1406,Experimental,TDP-117,G40147,TDP-117,white,G40147
+2023,1,14,7,WL,1407,Experimental,TDP-116,G40146,TDP-116,white,G40146
+2023,1,14,8,WL,1408,Experimental,TDP-131,G40162,TDP-131,white,G40162
+2023,1,14,9,WL,1409,Experimental,TDP-48,G40060,TDP-48,white,G40060
+2023,1,14,10,WL,1410,check plot,,,,,
+2023,1,14,11,WL,1411,Experimental,TDP-102,G40128,TDP-102,white,G40128
+2023,1,14,12,WL,1412,border,,,,,
+2023,1,15,1,WL,1501,border,,,,,
+2023,1,15,2,WL,1502,check plot,,,,,
+2023,1,15,3,WL,1503,Experimental,TDP-281,PI440793,TDP-281,white,PI 440793 
+2023,1,15,4,WL,1504,Experimental,TDP-114,G40144C,TDP-114,pink,G40144C
+2023,1,15,5,WL,1505,Experimental,TDP-29,G40041,TDP-29,white,G40041
+2023,1,15,6,WL,1506,Experimental,TDP-315,TL_53S,TDP-315,"cream,brown",TL-53S
+2023,1,15,7,WL,1507,Experimental,TDP-305,PI638926,TDP-305,cream/violet,PI 638926 
+2023,1,15,8,WL,1508,Experimental,TDP-294,PI477036,TDP-294,yellow,PI 477036 
+2023,1,15,9,WL,1509,Experimental,TARS_Tep_58A,TARS_Tep_58A,,white,
+2023,1,15,10,WL,1510,Experimental,TDP-310,Neb_T_8a_S,TDP-310,cream,Neb-T-8a-S
+2023,1,15,11,WL,1511,Experimental,TDP-246,TARS_Tep_29,TDP-246,white,TARS-Tep 29
+2023,1,15,12,WL,1512,border,,,,,
+2023,1,16,1,WL,1601,border,,,,,
+2023,1,16,2,WL,1602,check plot,,,,,
+2023,1,16,3,WL,1603,Experimental,TDP-363,G40005,TDP-363,white,"G40005,PI 200902"
+2023,1,16,4,WL,1604,Experimental,TDP-3,G40008,TDP-3,white,G40008
+2023,1,16,5,WL,1605,Experimental,TDP-286,PI440805,TDP-286,yellow,PI 440805 
+2023,1,16,6,WL,1606,Ramona Fill,,,,,
+2023,1,16,7,WL,1607,Experimental,TARS_Tep_64,TARS_Tep_64,20IS-11148,white,
+2023,1,16,8,WL,1608,Experimental,TDP-19,G40030,TDP-19,"cream,other",G40030
+2023,1,16,9,WL,1609,Experimental,TDP-100,G40125,TDP-100,white,G40125
+2023,1,16,10,WL,1610,Experimental,TDP-113,G40144B,TDP-113,"cream,other",G40144B
+2023,1,16,11,WL,1611,Experimental,TDP-16,G40025,TDP-16,yellow,G40025
+2023,1,16,12,WL,1612,border,,,,,
+2023,1,17,1,WL,1701,border,,,,,
+2023,1,17,2,WL,1702,Experimental,TDP-6,G40012,TDP-6,white,G40012
+2023,1,17,3,WL,1703,check plot,,,,,
+2023,1,17,4,WL,1704,Experimental,TDP-139,G40172,TDP-139,white,G40172
+2023,1,17,5,WL,1705,Experimental,TDP-7,G40013A,TDP-7,"black,cream",G40013A
+2023,1,17,6,WL,1706,Experimental,TDP-124,G40154,TDP-124,white,G40154
+2023,1,17,7,WL,1707,Experimental,TARS_Tep_100,TARS_Tep_100,20IS-11158,"white speckled, very nice",
+2023,1,17,8,WL,1708,Ramona Fill,,,,,
+2023,1,17,9,WL,1709,Experimental,TARS_Tep-105,TARS_Tep-105,20IS-11168,white speckled,
+2023,1,17,10,WL,1710,Experimental,TDP-26,G40038,TDP-26,cream,G40038
+2023,1,17,11,WL,1711,Experimental,TDP-311,Neb_T_15_S,TDP-311,black,Neb-T-15-S
+2023,1,17,12,WL,1712,border,,,,,
+2023,1,18,1,WL,1801,border,,,,,
+2023,1,18,2,WL,1802,Experimental,TDP-130,G40161,TDP-130,cream,G40161
+2023,1,18,3,WL,1803,check plot,,,,,
+2023,1,18,4,WL,1804,Experimental,TARS_Tep_23,TARS_Tep_23,20IS-11161,mottled black,
+2023,1,18,5,WL,1805,Experimental,TDP-143,G40173C,TDP-143,"cream,other",G40173C
+2023,1,18,6,WL,1806,Experimental,TDP-257,G40279,TDP-257,white,G40279
+2023,1,18,7,WL,1807,Experimental,TDP-24,G40037,TDP-24,yellow,G40037
+2023,1,18,8,WL,1808,Experimental,TDP-215,G40234,TDP-215,cream,G40234
+2023,1,18,9,WL,1809,Ramona Fill,,,,,
+2023,1,18,10,WL,1810,Experimental,TDP-23,G40036,TDP-23,black,G40036
+2023,1,18,11,WL,1811,Experimental,TDP-98,G40120,TDP-98,white,G40120
+2023,1,18,12,WL,1812,border,,,,,
+2023,1,19,1,WL,1901,border,,,,,
+2023,1,19,2,WL,1902,border,,,,,
+2023,1,19,3,WL,1903,border,,,,,
+2023,1,19,4,WL,1904,border,,,,,
+2023,1,19,5,WL,1905,border,,,,,
+2023,1,19,6,WL,1906,border,,,,,
+2023,1,19,7,WL,1907,border,,,,,
+2023,1,19,8,WL,1908,border,,,,,
+2023,1,19,9,WL,1909,border,,,,,
+2023,1,19,10,WL,1910,border,,,,,
+2023,1,19,11,WL,1911,border,,,,,
+2023,1,19,12,WL,1912,border,,,,,
+2023,2,1,15,WW,113,border,,,,,
+2023,2,1,16,WW,114,border,,,,,
+2023,2,1,17,WW,115,border,,,,,
+2023,2,1,18,WW,116,border,,,,,
+2023,2,1,19,WW,117,border,,,,,
+2023,2,1,20,WW,118,border,,,,,
+2023,2,1,21,WW,119,border,,,,,
+2023,2,1,22,WW,120,border,,,,,
+2023,2,1,23,WW,121,border,,,,,
+2023,2,1,24,WW,122,border,,,,,
+2023,2,1,25,WW,123,border,,,,,
+2023,2,1,26,WW,124,border,,,,,
+2023,2,2,15,WW,213,border,,,,,
+2023,2,2,16,WW,214,Experimental,TDP-256,G40277,TDP-256,white,G40277
+2023,2,2,17,WW,215,Experimental,TARS_Tep_64,TARS_Tep_64,20IS-11148,white,
+2023,2,2,18,WW,216,Experimental,TDP-310,Neb_T_8a_S,TDP-310,cream,Neb-T-8a-S
+2023,2,2,19,WW,217,Experimental,TDP-127,G40158A,TDP-127,cream,G40158A
+2023,2,2,20,WW,218,check plot,,,,,
+2023,2,2,21,WW,219,Experimental,TDP-276,G40302,TDP-276,white,G40302
+2023,2,2,22,WW,220,Experimental,TDP-132,G40163,TDP-132,white,G40163
+2023,2,2,23,WW,221,Experimental,TDP-105,G40138,TDP-105,white,G40138
+2023,2,2,24,WW,222,Experimental,TDP-125,G40156,TDP-125,white,G40156
+2023,2,2,25,WW,223,Experimental,TDP-129,G40160,TDP-129,white,G40160
+2023,2,2,26,WW,224,border,,,,,
+2023,2,3,15,WW,313,border,,,,,
+2023,2,3,16,WW,314,Experimental,TARS_Tep_22,TARS_Tep_22,20IS-11155,white,
+2023,2,3,17,WW,315,Experimental,TDP-48,G40060,TDP-48,white,G40060
+2023,2,3,18,WW,316,Experimental,TDP-315,TL_53S,TDP-315,"cream,brown",TL-53S
+2023,2,3,19,WW,317,Experimental,TDP-15,G40023,TDP-15,white,G40023
+2023,2,3,20,WW,318,Experimental,TDP-110,G40143,TDP-110,white,G40143
+2023,2,3,21,WW,319,Experimental,TDP-150,G40177B1,TDP-150,white,G40177B1
+2023,2,3,22,WW,320,Experimental,TDP-273,G40299,TDP-273,white,G40299
+2023,2,3,23,WW,321,Experimental,TDP-215,G40234,TDP-215,cream,G40234
+2023,2,3,24,WW,322,check plot,,,,,
+2023,2,3,25,WW,323,Experimental,TDP-294,PI477036,TDP-294,yellow,PI 477036 
+2023,2,3,26,WW,324,border,,,,,
+2023,2,4,15,WW,413,border,,,,,
+2023,2,4,16,WW,414,check plot,,,,,
+2023,2,4,17,WW,415,Experimental,TDP-248,G40269,TDP-248,"cream,brown",G40269
+2023,2,4,18,WW,416,Experimental,TDP-16,G40025,TDP-16,yellow,G40025
+2023,2,4,19,WW,417,Experimental,TDP-307,W6_32481,TDP-307,cream,W6 32481 
+2023,2,4,20,WW,418,Experimental,TDP-289,PI458874,TDP-289,white,PI 458874 
+2023,2,4,21,WW,419,Experimental,TDP-133,G40164,TDP-133,white,G40164
+2023,2,4,22,WW,420,Experimental,TDP-46,G40058,TDP-46,white,G40058
+2023,2,4,23,WW,421,Experimental,TDP-5,G40010,TDP-5,white,G40010
+2023,2,4,24,WW,422,Experimental,TDP-2,G40006B,TDP-2,"black,cream",G40006B
+2023,2,4,25,WW,423,Experimental,TDP-99,G40122,TDP-99,white,G40122
+2023,2,4,26,WW,424,border,,,,,
+2023,2,5,15,WW,513,border,,,,,
+2023,2,5,16,WW,514,Experimental,TDP-177,G40200,TDP-177,"cream,brown",G40200
+2023,2,5,17,WW,515,Ramona Fill,,,,,
+2023,2,5,18,WW,516,Experimental,TDP-283,PI440800,TDP-283,white,PI 440800 
+2023,2,5,19,WW,517,Experimental,TDP-257,G40279,TDP-257,white,G40279
+2023,2,5,20,WW,518,Experimental,Sacaton_white,Sacaton_white,20IS-11146,white,
+2023,2,5,21,WW,519,Experimental,TDP-29,G40041,TDP-29,white,G40041
+2023,2,5,22,WW,520,Ramona Fill,,,,,
+2023,2,5,23,WW,521,Ramona Fill,,,,,
+2023,2,5,24,WW,522,Experimental,TDP-3,G40008,TDP-3,white,G40008
+2023,2,5,25,WW,523,check plot,,,,,
+2023,2,5,26,WW,524,border,,,,,
+2023,2,6,15,WW,613,border,,,,,
+2023,2,6,16,WW,614,Experimental,TDP-246,TARS_Tep_29,TDP-246,white,TARS-Tep 29
+2023,2,6,17,WW,615,Experimental,TARS_Tep-109,TARS_Tep-109,20IS-11172,cream,
+2023,2,6,18,WW,616,Experimental,TDP-121,G40151,TDP-121,white,G40151
+2023,2,6,19,WW,617,Experimental,TDP-140,G40173,TDP-140,white,G40173
+2023,2,6,20,WW,618,Experimental,TDP-314,TB_1,TDP-314,yellow,TB 1
+2023,2,6,21,WW,619,Experimental,TDP-97,G40119,TDP-97,black,G40119
+2023,2,6,22,WW,620,Experimental,TARS_Tep-112,TARS_Tep-112,20IS-11175,pinto,
+2023,2,6,23,WW,621,Experimental,TDP-111,G40144,TDP-111,white,G40144
+2023,2,6,24,WW,622,check plot,,,,,
+2023,2,6,25,WW,623,Experimental,TDP-258,G40282,TDP-258,yellow,G40282
+2023,2,6,26,WW,624,border,,,,,
+2023,2,7,15,WW,713,border,,,,,
+2023,2,7,16,WW,714,Experimental,TDP-280,PI440792,TDP-280,white,PI 440792 
+2023,2,7,17,WW,715,Experimental,TDP-300,PI535233,TDP-300,white,PI 535233 
+2023,2,7,18,WW,716,Experimental,TDP-363,G40005,TDP-363,white,"G40005,PI 200902"
+2023,2,7,19,WW,717,Experimental,TDP-293,PI477035,TDP-293,white,PI 477035 
+2023,2,7,20,WW,718,check plot,,,,,
+2023,2,7,21,WW,719,Experimental,TDP-210,G40230,TDP-210,"cream,other",G40230
+2023,2,7,22,WW,720,Experimental,TDP-128,G40159,TDP-128,white,G40159
+2023,2,7,23,WW,721,Experimental,TARS_Tep_94,TARS_Tep_94,20IS-11154,"white, nice",
+2023,2,7,24,WW,722,Experimental,TDP-290,PI462026,TDP-290,white,PI 462026 
+2023,2,7,25,WW,723,Experimental,TDP-301,PI549447,TDP-301,white,PI 549447 
+2023,2,7,26,WW,724,border,,,,,
+2023,2,8,15,WW,813,border,,,,,
+2023,2,8,16,WW,814,Experimental,TDP-106,G40140,TDP-106,white,G40140
+2023,2,8,17,WW,815,Experimental,TDP-312,TARS_Tep_23,TDP-312,black,TARS-Tep 23
+2023,2,8,18,WW,816,check plot,,,,,
+2023,2,8,19,WW,817,Experimental,TDP-28,G40040,TDP-28,yellow,G40040
+2023,2,8,20,WW,818,Experimental,TDP-7,G40013A,TDP-7,"black,cream",G40013A
+2023,2,8,21,WW,819,Experimental,TDP-9,G40018,TDP-9,"cream,brown",G40018
+2023,2,8,22,WW,820,Experimental,TARS_Tep-110,TARS_Tep-110,20IS-11173,white,
+2023,2,8,23,WW,821,Experimental,TDP-148,G40177A1,TDP-148,"cream,pink",G40177A1
+2023,2,8,24,WW,822,Experimental,TDP-219,G40237A,TDP-219,pink,G40237A
+2023,2,8,25,WW,823,Experimental,TDP-21,G40034,TDP-21,white,G40034
+2023,2,8,26,WW,824,border,,,,,
+2023,2,9,15,WW,913,border,,,,,
+2023,2,9,16,WW,914,check plot,,,,,
+2023,2,9,17,WW,915,Experimental,TARS_Tep-118,TARS_Tep-118,20IS-11167,"black speckled,nice",
+2023,2,9,18,WW,916,Experimental,TDP-126,G40157,TDP-126,white,G40157
+2023,2,9,19,WW,917,Experimental,TDP-4,G40009,TDP-4,white,G40009
+2023,2,9,20,WW,918,Experimental,TDP-117,G40147,TDP-117,white,G40147
+2023,2,9,21,WW,919,Experimental,TDP-18,G40029,TDP-18,"cream,brown",G40029
+2023,2,9,22,WW,920,Experimental,TDP-109,G40142A,TDP-109,cream,G40142A
+2023,2,9,23,WW,921,Experimental,TDP-1,G40001,TDP-1,white,G40001
+2023,2,9,24,WW,922,Experimental,TDP-286,PI440805,TDP-286,yellow,PI 440805 
+2023,2,9,25,WW,923,Experimental,TDP-24,G40037,TDP-24,yellow,G40037
+2023,2,9,26,WW,924,border,,,,,
+2023,2,10,15,WW,1013,border,,,,,
+2023,2,10,16,WW,1014,check plot,,,,,
+2023,2,10,17,WW,1015,Experimental,TDP-22,G40035,TDP-22,black,G40035
+2023,2,10,18,WW,1016,Experimental,TDP-295,PI477038,TDP-295,white,PI 477038 
+2023,2,10,19,WW,1017,Experimental,TARS_Tep_101,TARS_Tep_101,20IS-11159,"white, nice",
+2023,2,10,20,WW,1018,Experimental,TDP-122,G40152,TDP-122,white,G40152
+2023,2,10,21,WW,1019,Experimental,TDP-305,PI638926,TDP-305,cream/violet,PI 638926 
+2023,2,10,22,WW,1020,Experimental,TDP-282,PI440798,TDP-282,white,PI 440798 
+2023,2,10,23,WW,1021,Experimental,TDP-19,G40030,TDP-19,"cream,other",G40030
+2023,2,10,24,WW,1022,Experimental,TDP-306,W6_32480,TDP-306,black,W6 32480 
+2023,2,10,25,WW,1023,Experimental,TARS_Tep_96,TARS_Tep_96,20IS-11149,black speckled,
+2023,2,10,26,WW,1024,border,,,,,
+2023,2,11,15,WW,1113,border,,,,,
+2023,2,11,16,WW,1114,Experimental,TDP-134,G40165,TDP-134,white,G40165
+2023,2,11,17,WW,1115,Experimental,TDP-278,G40304,TDP-278,white,G40304
+2023,2,11,18,WW,1116,Experimental,TARS_Tep-105,TARS_Tep-105,20IS-11168,white speckled,
+2023,2,11,19,WW,1117,Experimental,TARS_Tep_100,TARS_Tep_100,20IS-11158,"white speckled, very nice",
+2023,2,11,20,WW,1118,Experimental,TDP-31,G40043,TDP-31,white,G40043
+2023,2,11,21,WW,1119,Experimental,TARS_Tep_97,TARS_Tep_97,20IS-11156,"black speckled,nice",
+2023,2,11,22,WW,1120,Experimental,TDP-17,G40028,TDP-17,white,G40028
+2023,2,11,23,WW,1121,Experimental,TDP-25,G40037A,TDP-25,pink,G40037A
+2023,2,11,24,WW,1122,Experimental,TDP-114,G40144C,TDP-114,pink,G40144C
+2023,2,11,25,WW,1123,check plot,,,,,
+2023,2,11,26,WW,1124,border,,,,,
+2023,2,12,15,WW,1213,border,,,,,
+2023,2,12,16,WW,1214,Experimental,TDP-116,G40146,TDP-116,white,G40146
+2023,2,12,17,WW,1215,Experimental,TDP-303,PI653254,TDP-303,yellow,PI 653254 
+2023,2,12,18,WW,1216,Experimental,TDP-145,G40175,TDP-145,yellow,G40175
+2023,2,12,19,WW,1217,check plot,,,,,
+2023,2,12,20,WW,1218,Experimental,TDP-118,G40148,TDP-118,white,G40148
+2023,2,12,21,WW,1219,Experimental,TDP-308,W6_32483,TDP-308,white,W6 32483 
+2023,2,12,22,WW,1220,Experimental,TDP-288,PI458873,TDP-288,white,PI 458873 
+2023,2,12,23,WW,1221,Ramona Fill,,,,,
+2023,2,12,24,WW,1222,Experimental,TDP-275,G40301,TDP-275,white,G40301
+2023,2,12,25,WW,1223,Experimental,TDP-218,G40237,TDP-218,cream,G40237
+2023,2,12,26,WW,1224,border,,,,,
+2023,2,13,15,WW,1313,border,,,,,
+2023,2,13,16,WW,1314,Experimental,TDP-146,G40176,TDP-146,pink,G40176
+2023,2,13,17,WW,1315,Experimental,TDP-101,G40127,TDP-101,white,G40127
+2023,2,13,18,WW,1316,Experimental,TDP-108,G40142,TDP-108,cream,G40142
+2023,2,13,19,WW,1317,Experimental,TDP-102,G40128,TDP-102,white,G40128
+2023,2,13,20,WW,1318,check plot,,,,,
+2023,2,13,21,WW,1319,Experimental,TDP-119,G40149,TDP-119,white,G40149
+2023,2,13,22,WW,1320,Experimental,TDP-251,G40272,TDP-251,white,G40272
+2023,2,13,23,WW,1321,Experimental,TARS_Tep_23,TARS_Tep_23,20IS-11161,mottled black,
+2023,2,13,24,WW,1322,Experimental,TDP-112,G40144A,TDP-112,cream,G40144A
+2023,2,13,25,WW,1323,Experimental,TARS_Tep-119,TARS_Tep-119,,white specked,
+2023,2,13,26,WW,1324,border,,,,,
+2023,2,14,15,WW,1413,border,,,,,
+2023,2,14,16,WW,1414,Experimental,TDP-26,G40038,TDP-26,cream,G40038
+2023,2,14,17,WW,1415,Experimental,TDP-130,G40161,TDP-130,cream,G40161
+2023,2,14,18,WW,1416,Experimental,TDP-209,G40229,TDP-209,white,G40229
+2023,2,14,19,WW,1417,Experimental,TDP-139,G40172,TDP-139,white,G40172
+2023,2,14,20,WW,1418,Experimental,TARS_Tep_103,TARS_Tep_103,20IS-11160,"white speckled, very nice",
+2023,2,14,21,WW,1419,check plot,,,,,
+2023,2,14,22,WW,1420,Experimental,TDP-104,G40130,TDP-104,white,G40130
+2023,2,14,23,WW,1421,Experimental,TDP-8,G40013D,TDP-8,"brown, cream",G40013D
+2023,2,14,24,WW,1422,Experimental,TARS_Tep_54,TARS_Tep_54,20IS-11151,"white, nice",
+2023,2,14,25,WW,1423,Experimental,TDP-143,G40173C,TDP-143,"cream,other",G40173C
+2023,2,14,26,WW,1424,border,,,,,
+2023,2,15,15,WW,1513,border,,,,,
+2023,2,15,16,WW,1514,Experimental,TDP-259,G40283,TDP-259,"cream,other",G40283
+2023,2,15,17,WW,1515,Experimental,TDP-98,G40120,TDP-98,white,G40120
+2023,2,15,18,WW,1516,Experimental,TDP-23,G40036,TDP-23,black,G40036
+2023,2,15,19,WW,1517,Experimental,TDP-144,G40174,TDP-144,white,G40174
+2023,2,15,20,WW,1518,Experimental,TDP-279,PI440785,TDP-279,white,PI 440785 
+2023,2,15,21,WW,1519,Experimental,TDP-254,G40275,TDP-254,white,G40275
+2023,2,15,22,WW,1520,check plot,,,,,
+2023,2,15,23,WW,1521,Experimental,TDP-274,G40300,TDP-274,white,G40300
+2023,2,15,24,WW,1522,Experimental,TARS_Tep_58A,TARS_Tep_58A,,white,
+2023,2,15,25,WW,1523,Experimental,TDP-281,PI440793,TDP-281,white,PI 440793 
+2023,2,15,26,WW,1524,border,,,,,
+2023,2,16,15,WW,1613,border,,,,,
+2023,2,16,16,WW,1614,Experimental,TDP-107,G40141,TDP-107,white,G40141
+2023,2,16,17,WW,1615,Experimental,TDP-14,G40022A,TDP-14,dark pink,G40022A
+2023,2,16,18,WW,1616,check plot,,,,,
+2023,2,16,19,WW,1617,Experimental,TDP-131,G40162,TDP-131,white,G40162
+2023,2,16,20,WW,1618,Experimental,TDP-103,G40129,TDP-103,white,G40129
+2023,2,16,21,WW,1619,Experimental,TDP-89,G40111,TDP-89,"black,cream",G40111
+2023,2,16,22,WW,1620,Experimental,TDP-284,PI440801,TDP-284,yellow,PI 440801 
+2023,2,16,23,WW,1621,Ramona Fill,,,,,
+2023,2,16,24,WW,1622,Experimental,TDP-115,G40145,TDP-115,white,G40145
+2023,2,16,25,WW,1623,Experimental,TDP-88,G40110,TDP-88,"black,cream",G40110
+2023,2,16,26,WW,1624,border,,,,,
+2023,2,17,15,WW,1713,border,,,,,
+2023,2,17,16,WW,1714,Experimental,TDP-311,Neb_T_15_S,TDP-311,black,Neb-T-15-S
+2023,2,17,17,WW,1715,Experimental,TDP-45,G40057,TDP-45,white,G40057
+2023,2,17,18,WW,1716,Experimental,TDP-100,G40125,TDP-100,white,G40125
+2023,2,17,19,WW,1717,Experimental,TDP-296,PI440795,TDP-296,white,PI 440795 
+2023,2,17,20,WW,1718,Experimental,TDP-6,G40012,TDP-6,white,G40012
+2023,2,17,21,WW,1719,Experimental,TDP-120,G40150,TDP-120,white,G40150
+2023,2,17,22,WW,1720,check plot,,,,,
+2023,2,17,23,WW,1721,Experimental,TDP-113,G40144B,TDP-113,"cream,other",G40144B
+2023,2,17,24,WW,1722,Experimental,TDP-20,G40032,TDP-20,white,G40032
+2023,2,17,25,WW,1723,Experimental,TDP-287,PI440806,TDP-287,yellow,PI 440806 
+2023,2,17,26,WW,1724,border,,,,,
+2023,2,18,15,WW,1813,border,,,,,
+2023,2,18,16,WW,1814,Experimental,TARS_Tep_93,TARS_Tep_93,20IS-11152,white speckled,
+2023,2,18,17,WW,1815,Experimental,TDP-124,G40154,TDP-124,white,G40154
+2023,2,18,18,WW,1816,Experimental,TDP-142,G40173B,TDP-142,cream,G40173B
+2023,2,18,19,WW,1817,Experimental,TDP-255,G40276,TDP-255,white,G40276
+2023,2,18,20,WW,1818,Experimental,TDP-244,Neb_T_6_S,TDP-244,black,Neb T-6-S
+2023,2,18,21,WW,1819,Experimental,TDP-123,G40153,TDP-123,cream,G40153
+2023,2,18,22,WW,1820,Experimental,TDP-220,G40238,TDP-220,cream,G40238
+2023,2,18,23,WW,1821,check plot,,,,,
+2023,2,18,24,WW,1822,Experimental,TDP-299,PI535227,TDP-299,cream,PI 535227 
+2023,2,18,25,WW,1823,Experimental,TDP-12,G40021,TDP-12,white,G40021
+2023,2,18,26,WW,1824,border,,,,,
+2023,2,19,15,WW,1913,border,,,,,
+2023,2,19,16,WW,1914,border,,,,,
+2023,2,19,17,WW,1915,border,,,,,
+2023,2,19,18,WW,1916,border,,,,,
+2023,2,19,19,WW,1917,border,,,,,
+2023,2,19,20,WW,1918,border,,,,,
+2023,2,19,21,WW,1919,border,,,,,
+2023,2,19,22,WW,1920,border,,,,,
+2023,2,19,23,WW,1921,border,,,,,
+2023,2,19,24,WW,1922,border,,,,,
+2023,2,19,25,WW,1923,border,,,,,
+2023,2,19,26,WW,1924,border,,,,,
+,,1,14,,8991,skip,,,,,
+,,2,14,,8992,skip,,,,,
+,,3,14,,8993,skip,,,,,
+,,4,14,,8994,skip,,,,,
+,,5,14,,8995,skip,,,,,
+,,6,14,,8996,skip,,,,,
+,,7,14,,8997,skip,,,,,
+,,8,14,,8998,skip,,,,,
+,,9,14,,8999,skip,,,,,
+,,10,14,,9000,skip,,,,,
+,,11,14,,9001,skip,,,,,
+,,12,14,,9002,skip,,,,,
+,,13,14,,9003,skip,,,,,
+,,14,14,,9004,skip,,,,,
+,,15,14,,9005,skip,,,,,
+,,16,14,,9006,skip,,,,,
+,,17,14,,9007,skip,,,,,
+,,18,14,,9008,skip,,,,,
+,,19,14,,9009,skip,,,,,
+,,1,13,,9010,skip,,,,,
+,,2,13,,9011,skip,,,,,
+,,3,13,,9012,skip,,,,,
+,,4,13,,9013,skip,,,,,
+,,5,13,,9014,skip,,,,,
+,,6,13,,9015,skip,,,,,
+,,7,13,,9016,skip,,,,,
+,,8,13,,9017,skip,,,,,
+,,9,13,,9018,skip,,,,,
+,,10,13,,9019,skip,,,,,
+,,11,13,,9020,skip,,,,,
+,,12,13,,9021,skip,,,,,
+,,13,13,,9022,skip,,,,,
+,,14,13,,9023,skip,,,,,
+,,15,13,,9024,skip,,,,,
+,,16,13,,9025,skip,,,,,
+,,17,13,,9026,skip,,,,,
+,,18,13,,9027,skip,,,,,
+,,19,13,,9028,skip,,,,,

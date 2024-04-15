@@ -2,8 +2,10 @@
 
 This R notebook is written to extract phenotype information from drone imagery using [FieldImageR](https://github.com/OpenDroneMap/FIELDimageR). This repo contains the following:
 
-- Orthomosaic: `North-Cardon-Lane-7-6-2023-orthophoto.tif`
-- R notebook: `testing_fieldimageR.Rmd`
+- Orthomosaics: `dwonsampled_orthos\`
+- DSMs: `DSM\`
+- Fieldmap: `fieldmaps\F120_beans_2023_fieldmap.csv`
+- R notebooks: `create_fieldmap.Rmd, create_shapefile.Rmd, extract_canopy_cover.Rmd, extract_plant_height.Rmd`
 
 We will use these files to test FieldImageR
 
@@ -58,6 +60,8 @@ devtools::install_github("OpenDroneMap/FIELDimageR")
 Confirm the successful installation of FieldImageR by searching for "FIELDimageR" in your Packages section. If you see the package, the installation was successful. Try the installation again if you do not see the package.
 
 ![Alt text](img/install_confirm.png?raw=true "Title")
+
+# Old Readme Info
 
 ## Run R notebook
 <!-- 

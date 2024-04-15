@@ -1,0 +1,90 @@
+---
+title: "R Notebook"
+# output: html_notebook
+editor_options: 
+  chunk_output_type: console
+output: 
+  html_notebook: 
+    fig_caption: yes
+fig_width: 6 
+fig_height: 4 
+---
+
+# Load libraries
+```{r}
+library(FIELDimageR)
+library(FIELDimageR.Extra)
+library(raster)
+library(terra)
+library(mapview)
+library(sf)
+library(stars)
+```
+
+```{r}
+# Uploading files from soil base:
+DSM0 <- rast("./DSM/8_14_2023_F120_Beans_P4_15m_RGB_dsm.tif")
+
+# Set the path to the "downsampled_orthos" folder
+folder_path <- "./downsampled_orthos/"
+
+# Set the path to the "DSM" folder
+DSM_path <- "./DSM/"
+
+# Open shapefile 
+EX1.Shape<- st_read("./shapefile/F120_beans_2023.shp") 
+
+# Get a list of all files ending in "_downsample.tif"
+files <- list.files(path = folder_path, pattern = "_downsample\\.tif$")
+
+# Check with single file
+# ortho_path <- files[4]
+
+# Iterate through the files
+for (ortho_path in files) {
+  
+  # Remove the ".tif" substring from the ortho_path string
+  result <- gsub(".tif", "" , ortho_path, fixed = TRUE)
+  
+  # Print the result
+  print(result)
+  
+  # Open the orthomosaic
+  EX1 <- rast(file.path(folder_path, ortho_path))
+
+  # Remove soil pixels
+  EX1.RemSoil <- fieldMask(mosaic = EX1, Red = 1, Green = 2, Blue = 3, index = "HUE")
+  
+  # Get DSM filename
+  dsm_file <- gsub("transparent_mosaic_group1_downsample.tif", "dsm.tif", ortho_path, fixed = TRUE)
+  
+  # Load DSM file
+  DSM1 <- rast(file.path(DSM_path,dsm_file))
+  
+  # Canopy Height Model (CHM):
+  DSM0.R <- resample(DSM0, DSM1)
+  CHM <- DSM1-DSM0.R
+
+  # Removing the soil using mask from step 4:
+  CHM.S <- fieldMask(CHM, mask = EX1.RemSoil$mask)
+  
+  # Extracting the estimate plant height average (EPH):
+  EPH <- fieldInfo_extra(CHM.S$newMosaic, fieldShape = EX1.Shape)
+  colnames(EPH)[dim(EPH)[2]-1]<-"PlantHeight"
+  EPH <- as.data.frame(EPH)[,-dim(EPH)[2]]
+  
+  # Add ".csv" to the end of the result string
+  result <- paste0("./outputs/",result, ".csv")
+  
+  # Save output to file
+  if(file.exists(result)){
+    data <- read.csv(result)
+    merged_data <- merge(data, EPH %>% dplyr::select(PlotID,"PlantHeight"), by ="PlotID")
+    write.csv(merged_data[,-1], file = result, row.names = FALSE)
+    } else{
+  write.csv(EPH, file = result, row.names = FALSE)
+  }
+
+}
+```
+
